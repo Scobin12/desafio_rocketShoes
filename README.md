@@ -18,6 +18,8 @@
 <ul>
   <li>
     Este é um desafio fornecido pela Rocketseat no curso Discover. 
+        <br>
+    Projeto disponibilizado no figma.
   </li>
   <li>
     O desafio consiste em fazer uma página de uma loja de tênis.
